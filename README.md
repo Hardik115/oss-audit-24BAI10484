@@ -1,11 +1,11 @@
 # OSS Audit — Git
 ### Open Source Software Capstone Project
 
-**Student Name:** [Your Name]  
-**Registration Number:** [Your Registration Number]  
+**Student Name:** Hardik Gaur 
+**Registration Number:** 24BAI10484
 **Course:** Open Source Software (NGMC)  
 **Chosen Software:** Git (GPL v2)  
-**Repository Name:** oss-audit-[rollnumber]
+**Repository Name:** oss-audit-24BAI10484
 
 ---
 
