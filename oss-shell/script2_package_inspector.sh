@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: [Your Name] | Reg No: [Your Registration Number]
+# Author: Hardik Gaur | Reg No: 24BAI10484
 # Course: Open Source Software
 # Purpose: Check if a FOSS package is installed, show its details,
 #          and print a philosophy note about it using a case statement
