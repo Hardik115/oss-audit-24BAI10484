@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: [Your Name] | Reg No: [Your Registration Number]
+# Author: Hardik Gaur | Reg No: 24BAI10484
 # Course: Open Source Software
 # Purpose: Read a log file line by line, count occurrences of a
 #          keyword, and print a summary with the last 5 matches
